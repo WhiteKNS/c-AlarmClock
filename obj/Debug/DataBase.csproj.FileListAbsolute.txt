@@ -1,0 +1,10 @@
+c:\users\natalya\documents\visual studio 2015\Projects\DataBase\DataBase\bin\Debug\DataBase.exe.config
+c:\Users\NATALYA\documents\visual studio 2015\Projects\DataBase\DataBase\bin\Debug\DataBase.exe
+c:\Users\NATALYA\documents\visual studio 2015\Projects\DataBase\DataBase\bin\Debug\DataBase.pdb
+c:\Users\NATALYA\documents\visual studio 2015\Projects\DataBase\DataBase\obj\Debug\DataBase.csprojResolveAssemblyReference.cache
+c:\Users\NATALYA\documents\visual studio 2015\Projects\DataBase\DataBase\obj\Debug\DataBase.Properties.Resources.resources
+c:\Users\NATALYA\documents\visual studio 2015\Projects\DataBase\DataBase\obj\Debug\DataBase.csproj.GenerateResource.Cache
+c:\Users\NATALYA\documents\visual studio 2015\Projects\DataBase\DataBase\obj\Debug\DataBase.exe
+c:\Users\NATALYA\documents\visual studio 2015\Projects\DataBase\DataBase\obj\Debug\DataBase.pdb
+c:\Users\NATALYA\documents\visual studio 2015\Projects\DataBase\DataBase\obj\Debug\DataBase.MainForm.resources
+c:\Users\NATALYA\documents\visual studio 2015\Projects\DataBase\DataBase\obj\Debug\DataBase.Search.resources
